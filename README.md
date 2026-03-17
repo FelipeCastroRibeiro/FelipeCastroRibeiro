@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👨‍💻 Felipe
 
-<!--
-**FelipeCastroRibeiro/FelipeCastroRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analytics`**
 
-Here are some ideas to get you started:
+Me chamo Felipe Castro, tenho 20 anos e sou de São Paulo, atualmente estou formado na faculdade no curso de Ciência de Dados, e atualmente trabalho na PwCBrazil como Specialis II. Soui apaixonado pela análise de dados e ferramentas como Power Bi, Tableau e SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias 
+    
+<img 
+align = left
+alt = "Python"
+title = "Python"
+width = 30px
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+>
+
+<img 
+align = left
+alt = "Pandas"
+title = "Pandas"
+width = 30px
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+>
+
+<img 
+align = left
+alt = "Numpy"
+title = "Numpy"
+width = 30px
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+>
+
+<img 
+align = left
+alt = "MatplotLib"
+title = "MatplotLib"
+width = 30px
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+>
+
+
+<img 
+align = left
+alt = "SQL"
+title = "SQL"
+width = 30px
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+>
