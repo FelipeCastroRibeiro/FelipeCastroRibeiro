@@ -2,7 +2,7 @@
 
 **`Data Analytics`**
 
-Me chamo Felipe Castro, tenho 20 anos e sou de São Paulo, atualmente estou formado na faculdade UNICSUL no curso de Ciência de Dados, e atualmente trabalho na PwC Brazil como Specialist II. Sou apaixonado pela análise de dados e ferramentas como Power Bi, Tableau, SQL e Python.
+Me chamo Felipe Castro, tenho 21 anos e sou de São Paulo, atualmente estou formado na faculdade UNICSUL no curso de Ciência de Dados, e atualmente trabalho na PwC Brazil como Specialist II. Sou apaixonado pela análise de dados e ferramentas como Power Bi, Tableau, SQL e Python.
 
 ### 🤖 Linguagens e Tecnologias 
     
